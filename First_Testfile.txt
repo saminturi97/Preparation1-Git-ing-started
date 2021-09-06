@@ -1,1 +1,2 @@
 this is my first text file in Preparation1 Git-ing started
+my name is Sam I am a Masters student in Data Science and analytics department  
